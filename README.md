@@ -5,7 +5,21 @@
 WeatherInformant is an interactive climate analytics dashboard built with **R Shiny** to explore historical temperature and rainfall patterns across Kenya's 46 counties. The application transforms nearly three decades of meteorological data into interactive visualizations and statistical summaries that support climate research, agricultural planning, and evidence-based decision-making.
 
 ---
-Live Demo: Not publicly deployed due to data confidentiality and licensing restrictions. This repository showcases the application architecture, statistical methods, and implementation. Screenshots (in the image folder) are provided to demonstrate functionality
+
+## Application Access   
+
+This application was developed using historical climate data obtained for academic purposes.  
+
+To protect data licensing requirements and confidentiality, a public deployment is not available.   
+
+The repository includes:   
+- Complete source code   
+- Documentation   
+- Statistical methodology   
+- Dashboard screenshots   
+- Project report   
+
+These resources provide a comprehensive overview of the application's functionality and implementation.   
 
 ---
 
