@@ -217,21 +217,15 @@ Kenya_Climate_Analytics_Dashboard/
 
 ## Screenshots
 
-### Dashboard Home
-
-![Dashboard Home](images/dashboard_home.png)
-
-### Temperature Trends
-
-![Temperature Trends](images/temperature_trends.png)
-
-### Rainfall Analysis
-
-![Rainfall Trends](images/rainfall_trends.png)
-
-### County Comparison
-
-![County Comparison](images/county_comparison.png)
+<img width="376" height="283" alt="Counties_average_rainfalls" src="https://github.com/user-attachments/assets/f563aeaf-f186-4de2-8f58-231b91afe052" />   
+<img width="404" height="304" alt="counties_average_temperature" src="https://github.com/user-attachments/assets/fce4e2c4-7b37-45b3-9958-fe68435fff77" /> 
+<img width="499" height="298" alt="Mean_temperature_trend" src="https://github.com/user-attachments/assets/76d4d793-a0f8-4dd3-83fc-2a5230162f82" />  
+<img width="483" height="280" alt="County_temperature_variability" src="https://github.com/user-attachments/assets/bcfb2bd7-0e3b-43ed-aa08-5d4b6d26146e" />    
+<img width="499" height="279" alt="Average_rainfall_trends" src="https://github.com/user-attachments/assets/618a2c9b-eccd-43f1-b58f-20ce4ff5c9e8" />    
+<img width="458" height="276" alt="areaplot_temperature" src="https://github.com/user-attachments/assets/b36c7e03-0e17-41e2-a00c-601bd79c2d5a" />    
+<img width="497" height="288" alt="Average_rainfall_decades" src="https://github.com/user-attachments/assets/51a6fb9e-a73b-4d99-8f7d-1054f62bb60f" />   
+<img width="707" height="410" alt="Dryness_Wet_analysis" src="https://github.com/user-attachments/assets/9daf245f-3bb9-4a82-8d62-8703d9c4e17f" />   
+<img width="520" height="304" alt="Climate_trend" src="https://github.com/user-attachments/assets/8771dafb-387d-4ee9-8baf-badd7f021140" />    
 
 ---
 
